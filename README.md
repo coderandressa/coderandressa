@@ -1,14 +1,16 @@
-## 👋 Olá, eu sou a Andressa Felix
-- 🌱 3º Semestre de Análise e Desenvolvimento de Sistemas
-- 💞️ Atualmente estudando Desenvolvimento Front End
-- 👩‍💻 Procurando primeiro emprego como Desenvolvedora Front End
-- 💡 Sou responsável, pontual, dedicada, aprendo rápido e gosto de trabalhar em grupo
-- 📫 andressafelixnutri@hotmail.com
-- 🔥 https://www.linkedin.com/in/andressa-felix/
+## 👋 Olá, meu nome é Andressa Felix
+
+Sou desenvolvedora Front End, procurando o primeiro emprego.
+
+Sou responsável, pontual, dedicada e aprendo rápido.
+
+Estou sempre procurando um novo desafio. 
+
 
 ### "Não somos o que sabemos. Somos o que estamos dispostos a aprender."
 
-<!---
-coderandressa/coderandressa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 3º Semestre de Análise e Desenvolvimento de Sistemas
+- - 📫 andressafelixnutri@hotmail.com
+- 🔥 https://www.linkedin.com/in/andressa-felix/
+
+
