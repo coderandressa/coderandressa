@@ -10,7 +10,7 @@ Estou sempre procurando um novo desafio.
 ### "Não somos o que sabemos. Somos o que estamos dispostos a aprender."
 
 - 🌱 3º Semestre de Análise e Desenvolvimento de Sistemas
-- - 📫 andressafelixnutri@hotmail.com
+-  📫 andressafelixnutri@hotmail.com
 - 🔥 https://www.linkedin.com/in/andressa-felix/
 
 
