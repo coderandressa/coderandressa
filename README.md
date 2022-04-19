@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é Andressa Felix
 
-Sou desenvolvedora Front End, procurando o primeiro emprego.
+Sou desenvolvedora Front End, procurando a primeira oportunidade.
 
-Sou responsável, pontual, dedicada e aprendo rápido.
+Sou responsável, pontual e dedicada.
 
 Estou sempre procurando um novo desafio. 
 
